@@ -226,5 +226,4 @@ Marri Laxman Reddy Institute of Technology and Management
 This project is licensed under the MIT License.
 
 ---
-
-## ⭐ If you like this project, give it a Star.
+ ⭐ If you like this project, give it a Star.
