@@ -225,5 +225,9 @@ Marri Laxman Reddy Institute of Technology and Management
 
 This project is licensed under the MIT License.
 
----
- ⭐ If you like this project, give it a Star.
+
+ ## Repository Information
+
+This repository contains the documentation, system architecture, design, and implementation details of the **Emergency Ambulance Alert System for Intelligent Traffic Clearance** developed as an academic major project.
+
+> **Note:** The original implementation source code is not included because it is no longer available. The repository is intended to showcase the project design, methodology, architecture, and technical documentation.
